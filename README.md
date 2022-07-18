@@ -10,4 +10,4 @@ The code housed in this repistory works although there may be a few stray commen
 In the future, the code will be cleaned up and annotated for better readability.
 This is a temporary location for this code. In the near future, this code is planned to be housed at the Materials Common for a more permanent location.
 
-Code is avaible for use with proper citation. Proper citation details will be provided when available. For now, please cite this Github page.
+Code is avaible for use with proper citation. Current preprint link is https://arxiv.org/abs/2207.07153.
